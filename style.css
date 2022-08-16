@@ -1,0 +1,168 @@
+{
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+}
+
+#Base1 {
+    width:600px;
+    height:850px;
+    background-color: #86b5d4;
+    border:3px rgb(255, 255, 255) solid;
+}
+
+#Base2 {
+    width:570px;
+    height:623px;
+    background-color: #ffffff;
+    border:3px #86b5d4 solid;
+    position: absolute;
+    top:220px;
+    left:23px;
+
+}
+
+#Base2 img{
+    border-radius:50%;
+    width: 30%;
+    position: absolute;
+    top:-70px;
+    left:200px;
+    border:3px #86b5d4 solid;
+
+}
+
+#Linha1 {
+    width:500px;
+    height:4px;
+    border-radius: 30px;
+    position: absolute;
+    background-color:#86b5d4;
+    top: 200px;
+    left:35px;
+
+}
+
+
+#Linha2 {
+    width:500px;
+    height:4px;
+    border-radius: 30px;
+    position: absolute;
+    background-color:#86b5d4;
+    top: 270px;
+    left:35px;
+
+}
+
+#Linha3 {
+    width:500px;
+    height:4px;
+    border-radius: 30px;
+    position: absolute;
+    background-color:#86b5d4;
+    top: 375px;
+    left:35px;
+
+}
+
+#Linha4 {
+    width:500px;
+    height:4px;
+    border-radius: 30px;
+    position: absolute;
+    background-color:#86b5d4;
+    top: 450px;
+    left:35px;
+
+}
+
+#Linha5 {
+    width:500px;
+    height:4px;
+    border-radius: 30px;
+    position: absolute;
+    background-color:#86b5d4;
+    top: 525px;
+    left:35px;
+
+}
+
+#Ponto1 {
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    background-color:#86b5d4;
+    position: absolute;
+    top:147px;
+    left:37px;
+
+}
+
+#Ponto2 {
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    background-color:#86b5d4;
+    position: absolute;
+    top:222px;
+    left:37px;
+    
+}
+
+#Ponto3 {
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    background-color:#86b5d4;
+    position: absolute;
+    top:297px;
+    left:37px;
+    
+}
+
+#Ponto4 {
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    background-color:#86b5d4;
+    position: absolute;
+    top:401px;
+    left:37px;
+    
+}
+
+#Ponto5 {
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    background-color:#86b5d4;
+    position: absolute;
+    top:477px;
+    left:37px;
+    
+}
+
+#Ponto6 {
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    background-color:#86b5d4;
+    position: absolute;
+    top:552px;
+    left:37px;
+    
+}
+
+#Ponto7 {
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    background-color:#86b5d4;
+    position: absolute;
+    top:582px;
+    left:37px;
+    
+}
